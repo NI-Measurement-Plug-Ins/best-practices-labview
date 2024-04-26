@@ -1,8 +1,8 @@
-## 1. Overview
+## Overview
 
 This project provides a set of measurement plugins demonstrating advanced data structures.
 
-## 2. Software Dependencies
+## Software Dependencies
 
 - LabVIEW 2021 SP1
 - LabVIEW Add-ons (VI Packages):
@@ -12,13 +12,13 @@ This project provides a set of measurement plugins demonstrating advanced data s
 - InstrumentStudio 2024 Q1
 - Measurement Link 2024 Q1
 
-## 3. Measurement Plugin Details
+## Measurement Plugin Details
 
-### 3.1. Advanced Data Structure Exchange
+### Advanced Data Structure Exchange
 
 The `Advanced Data Structure Exchange` plugin is an example that shows how to implement a complex cluster and exchange the cluster data between Measurement UI and Logic.
 
-#### 3.1. Key Techniques:
+#### Key Techniques:
 
 - Using Clusters
 - Handling Data Exchange through JSON strings and Text File

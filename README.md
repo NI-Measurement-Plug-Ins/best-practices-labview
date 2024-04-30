@@ -44,6 +44,8 @@ For higher level general documentation, check out: [MeasurementLink Product Docu
 
 The goal is to look like a native InstrumentStudio panel. Looks at some of the native panels like DC-Power and Scope to get an idea for the 'look and feel' users are accustomed to. For LabVIEW UI development, the recommendation is to use the Fuse Design System (or NXG style for older versions of LabVIEW) controls and indicators.
 
+Check out these [InstrumentStudio styled buttons](/source/user%20interface/controls/README.md).
+
 ### TestStand
 
 You measurement can be called as a step in TestStand. Make sure that when it executes, it will stop even if there are timeouts or errors. If not, your TestStand will hang potentially without any obvious signs of a problem. 

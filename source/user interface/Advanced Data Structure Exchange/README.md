@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 This project provides a set of measurement plugins demonstrating advanced data structures.
 
@@ -18,10 +18,9 @@ This project provides a set of measurement plugins demonstrating advanced data s
 
 The `Advanced Data Structure Exchange` plugin is an example that shows how to implement a complex cluster and exchange the cluster data between Measurement UI and Logic.
 
-#### Key Techniques:
+#### Key Techniques
 
 - Using Clusters
 - Handling Data Exchange through JSON strings and Text File
 - Building Measurement UI as PPLs
   - As this example uses JSONtext (external package) to convert data into JSON, the Measurement UI should be built into ppl for InstrumentStudio compatibility.
-

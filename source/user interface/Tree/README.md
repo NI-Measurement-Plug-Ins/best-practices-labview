@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 This project provides a set of measurement plugins demonstrating advanced data structures.
 
@@ -17,6 +17,6 @@ This project provides a set of measurement plugins demonstrating advanced data s
 
 The `Tree` plugin demonstrates how to store and subsequently retrieve the hierarchy of a tree control. The code uses a state machine with events to allow the user to; randomize the tree status, save the current status and restore a saved state.
 
-#### Key Techniques:
+#### Key Techniques
 
 - Using Tree data structure

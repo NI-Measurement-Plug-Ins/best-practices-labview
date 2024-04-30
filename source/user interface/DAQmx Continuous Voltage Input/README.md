@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 This project provides a set of measurement plugins demonstrating advanced data structures.
 
@@ -17,10 +17,9 @@ This project provides a set of measurement plugins demonstrating advanced data s
 
 This `DAQmx Continuous Voltage Input` example uses a DAQmx device to continuously acquire buffered voltage measurements.
 
-#### Key Techniques:
+#### Key Techniques
 
 - Panel Resizing
 - Handling Tabs, IVI controls, Path and Timestamp control
 - Using Waveform Graph
 - Continuous UI update (Waveform)
-

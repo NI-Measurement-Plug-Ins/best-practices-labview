@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 This project provides a set of measurement plugins demonstrating advanced data structures.
 
@@ -17,9 +17,8 @@ This project provides a set of measurement plugins demonstrating advanced data s
 
 This `Dialog Box` plugin shows use of all available types of dialog boxes.
 
-#### Key Techniques:
+#### Key Techniques
 
 - Custom Dialog Box
 - Building Measurement UI as PPLs
   - To ensure compatibility with InstrumentStudio, this example should be packaged as a PPL due to use of Custom dialog box and SubVI.
-
